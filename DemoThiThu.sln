@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_DeSoMot", "Demo_DeSoMot\Demo_DeSoMot.csproj", "{0244915B-9DDD-47DB-B4E6-D5C572D1DD6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0244915B-9DDD-47DB-B4E6-D5C572D1DD6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0244915B-9DDD-47DB-B4E6-D5C572D1DD6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0244915B-9DDD-47DB-B4E6-D5C572D1DD6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0244915B-9DDD-47DB-B4E6-D5C572D1DD6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7718FD72-E1E9-4F36-8FE7-E6332B950782}
+	EndGlobalSection
+EndGlobal
